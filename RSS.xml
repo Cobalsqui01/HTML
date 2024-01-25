@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+	<channel>
+		<title>Canal de difusion de ejercicios</title>
+		<link>file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/El%20Rayo.html</link>
+		<description>Será el canal de ejercicios sobre los musculos</description>
+		<language>en</language>
+		<item>
+			<title>Lunes</title>
+			<link> file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/Lunes.html </link>
+			<description> Rutina de ejercicios del Lunes </description>
+		</item>
+		<item>
+			<title> Martes </title>
+			<link> file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/Martes.html </link>
+			<description> Rutina de ejercicios sobre el Martes</description>
+		</item>
+		<item>
+			<title> Miercoles </title>
+			<link> file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/Miercoles.html </link>
+			<description> Rutinas de ejercicios sobre el Miercoles </description>
+		</item>
+		<item>
+			<title>Jueves </title>
+			<link> file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/Jueves.html </link>
+			<description> Rutinas de ejercicios sobre el Jueves </description>
+		</item>
+		<item>
+			<title> Viernes </title>
+			<link> file:///C:/Users/DAW%20TARDE/Downloads/PROYECTOHTMLCSS_CPF%20(1)/ProyectoHTML_CPF%20(2)/ProyectoHTML_CPF/Viernes.html </link>
+			<description> Rutina de ejercicios sobre el Viernes </description>
+		</item>
+	</channel>
+</rss>
